@@ -1,1 +1,15 @@
 # Den.Common
+CacheHelper 服务器端Cache缓存库处理封装的库
+ChineseCalendarHelper 中文时间处理库
+Code128 条形码生成类
+CreateShortcut 桌面快捷方式创建
+Encryptor HASH算法加密工具类
+FilesDelete 文件彻底删除的工具
+FtpUpDown Ftp处理库
+HttpHelp HTTP请求类库
+ImageClass 图片处理，图片压缩，水印，裁剪等
+IPScanner  IP地址处理库
+TcpIPClient TCP/IP处理库
+Unit 基础应用库，含日志输出等
+Uploader  UEditor编辑器通用上传类
+WebApiHelper WebAPI处理库
